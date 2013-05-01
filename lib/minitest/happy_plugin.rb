@@ -3,7 +3,8 @@ module HappyPlugin
 end
 
 module Minitest
-  def self.plugin_happy_init
-    ARGV << "-p" # all pride, all the time
+  def self.plugin_happy_init options
+    Minitest::PrideIO.pride!  # all pride, all the time!
+    plugin_pride_init options # ensure we run before the pride plugin
   end
 end
