@@ -5,19 +5,15 @@ rdoc :: http://docs.seattlerb.org/minitest-happy
 
 == DESCRIPTION:
 
-FIX (describe your package)
+All pride, all the time!
 
 == FEATURES/PROBLEMS:
 
-* FIX (list of features or problems)
-
-== SYNOPSIS:
-
-  FIX (code sample of usage)
+* Install this plugin and EVERYTHING will show your testing pride.
 
 == REQUIREMENTS:
 
-* FIX (list of requirements)
+* minitest 5+
 
 == INSTALL:
 
